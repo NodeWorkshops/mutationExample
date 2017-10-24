@@ -1,0 +1,53 @@
+{
+  "References": [
+    {
+      "id": "1",
+      "referee": "Shooter McGavin",
+      "email": "shooter@gmail.com",
+      "rating": 7,
+      "company": "Augusta National"
+    },
+    {
+      "id": "2",
+      "referee": "Bill Gates",
+      "email": "outthegates@gmail.com",
+      "rating": 4,
+      "company": "Microsoft"
+    },
+    {
+      "id": "3",
+      "referee": "Linus Torvalds",
+      "email": "Lin@linux.com",
+      "rating": 6,
+      "company": "Linux"
+    },
+    {
+      "id": "4",
+      "referee": "Santoshi Nakamoto",
+      "email": "santoshi@gmail.com",
+      "rating": 7,
+      "company": "Bitcoin"
+    },
+    {
+      "id": "5",
+      "referee": "Charlie Lee",
+      "email": "clee@gmail.com",
+      "rating": 4,
+      "company": "Coinbase"
+    },
+    {
+      "id": "6",
+      "referee": "Guido van Rossum",
+      "email": "python@py.com",
+      "rating": 8,
+      "company": "Google"
+    },
+    {
+      "id": "7",
+      "referee": "Vitalik Buterin",
+      "email": "VickyB@ethereum.com",
+      "rating": 6,
+      "company": "Ethereum"
+    }
+  ]
+}
